@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+
+# Claude preview settings
+.claude/
+
+# Original photos: kept on this computer, but not uploaded.
+# The website uses the smaller copies in images/web/ instead.
+images/treatment.png
+images/session-60.png
+images/session-90.png
+images/space-3.png
+
+# Lotus source drawing (the website draws its own copy in index.html)
+images/lotus.png
